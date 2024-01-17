@@ -1,5 +1,5 @@
 // Write a programe to findout area of triangle
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
      float height = 0;
