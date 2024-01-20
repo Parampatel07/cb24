@@ -7,3 +7,6 @@ Write a program to findout whether given number is odd or not
 Write a programe to findout whether given number is odd or even 
 
 Write a programe to findout wether the given number is pallindrome number or not (only 3 digit number )
+
+Write a programe to findout distance of planet from sun 
+https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf
