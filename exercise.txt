@@ -20,3 +20,9 @@ Write a programe to create a calc
 ->min
 ->max
 ->equality
+
+Write a programe to findout days name based on given number using switch case 
+
+Write a programe to findout zodiac sign of user (month and day)
+https://i.pinimg.com/564x/43/aa/50/43aa50c918f3bd03abb71b6d4aaf93c7.jpg
+https://in.pinterest.com/pin/81698180718875314/

@@ -19,8 +19,53 @@ void main()
      printf("Enter value of month ");
      scanf("%d", &month);
 
-     if (month == 1)
+     if (month > 0)
      {
-          
+          if (month <= 12)
+          {
+               if (month <= 7)
+               {
+                    if (month == 2)
+                    {
+                         printf("This month has 28 or 29 days ");
+                    }
+                    else
+                    {
+                         if (month % 2 == 0)
+                         {
+                              // even
+                              printf("This month has 30 days ");
+                         }
+                         else
+                         {
+                              // odd
+                              printf("This month has 31 days ");
+                         }
+                    }
+               }
+               else
+               {
+                    if (month % 2 == 0)
+                    {
+                         // even
+                         printf("This month has 31 days ");
+                    }
+                    else
+                    {
+                         // odd
+                         printf("This month has 30 days ");
+                    }
+               }
+          }
+          else
+          {
+               printf("Invalid month ");
+          }
      }
+     else
+     {
+          printf("Invalid month ");
+     }
+
+     printf("\nGoodbyee..");
 }
