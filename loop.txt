@@ -42,14 +42,14 @@ in remaining execution first increment/decrement is done and then condition is c
 in any execution if condition is false, then loop will not run 
 syntax 
         a               b           c 
-    for(initialization;condition;increment/decrement)
+    for(initialization ; condition ; increment/decrement)
     {
         line 1  
         line 2
         .......
     }
     example 
-    for(count=0;count<5;count++)
+    for(count=0 ; count<5 ; count++ )
     {
 
     }
