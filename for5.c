@@ -12,7 +12,7 @@ void main()
      {
           printf("*");
      }
-     for (count = size - 3 ; count >= 0; count--)
+     for (count = size - 3; count >= 0; count--)
      {
           printf("\n");
           printf("*");
