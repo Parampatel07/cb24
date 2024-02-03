@@ -46,3 +46,5 @@ Write a programe to findout factorial of given number
 3 3 3
 4 4 4 4 
 5 5 5 5 5
+
+Write a program i/o 5 crickerts runs and find average 
