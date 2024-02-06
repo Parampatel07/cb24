@@ -48,3 +48,18 @@ Write a programe to findout factorial of given number
 5 5 5 5 5
 
 Write a program i/o 5 crickerts runs and find average 
+
+Write a programe to store 5 crickerts runs for 5 runs and total all runs 
+
+Write a programe to peform sorting in array (ascending order)
+20
+1
+50
+4
+60
+
+1
+4
+20
+50
+60

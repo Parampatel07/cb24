@@ -17,6 +17,17 @@ void main()
                break;
           }
      }
+     printf("%d ", count);
 
-     
+     for( count = count ; count >= 0 ; count--)
+     {
+          printf("%c", name[count]);
+     }
+     // printf("%c",name[6]);
+     // printf("%c",name[5]);
+     // printf("%c",name[4]);
+     // printf("%c",name[3]);
+     // printf("%c",name[2]);
+     // printf("%c",name[1]);
+     // printf("%c",name[0]);
 }
