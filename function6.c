@@ -1,7 +1,6 @@
 // Write a programe to findout bmi of user
 // weight in kg / (meter * meter)
 #include <stdio.h>
-
 float footToMeter(int foot)
 {
      return foot / 3.281;
@@ -32,7 +31,6 @@ void main()
      scanf("%d", &foot);
      printf("Enter value of inch ");
      scanf("%d", &inch);
-
      bmi = getBmi(foot, inch, weight);
      printf("The value of bmi is %f ", bmi);
 }
